@@ -8,6 +8,7 @@ public class ChowmenuApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ChowmenuApplication.class, args);
+        System.out.println("Hello World!");
     }
 
 }
